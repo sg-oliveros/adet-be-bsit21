@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dev
 .yarn/
 !.yarn/releases
@@ -27,6 +26,3 @@ lerna-debug.log*
 
 # misc
 .DS_Store
-=======
-node_modules/
->>>>>>> 0453008 (output for activity)
